@@ -1,0 +1,72 @@
+[submodule "docker_golang-grpc"]
+	path = docker_golang-grpc
+	url = https://github.com/land007/docker_golang-grpc.git
+[submodule "docker_cpp-grpc"]
+	path = docker_cpp-grpc
+	url = https://github.com/land007/docker_cpp-grpc.git
+[submodule "docker_golang"]
+	path = docker_golang
+	url = https://github.com/land007/docker_golang.git
+[submodule "docker_golang-web"]
+	path = docker_golang-web
+	url = https://github.com/land007/docker_golang-web.git
+[submodule "docker_cpp-opencv"]
+	path = docker_cpp-opencv
+	url = https://github.com/land007/docker_cpp-opencv.git
+[submodule "docker_tfjs-posenet"]
+	path = docker_tfjs-posenet
+	url = https://github.com/land007/docker_tfjs-posenet.git
+[submodule "docker_node-socket.io"]
+	path = docker_node-socket.io
+	url = https://github.com/land007/docker_node-socket.io.git
+[submodule "docker_tfjs-node"]
+	path = docker_tfjs-node
+	url = https://github.com/land007/docker_tfjs-node.git
+[submodule "docker_node"]
+	path = docker_node
+	url = https://github.com/land007/docker_node.git
+[submodule "docker_debian"]
+	path = docker_debian
+	url = https://github.com/land007/docker_debian.git
+[submodule "docker_gocv"]
+	path = docker_gocv
+	url = https://github.com/land007/docker_gocv.git
+[submodule "docker_cpp-boost"]
+	path = docker_cpp-boost
+	url = https://github.com/land007/docker_cpp-boost.git
+[submodule "docker_tfjs-face"]
+	path = docker_tfjs-face
+	url = https://github.com/land007/docker_tfjs-face.git
+[submodule "docker_ubuntu"]
+	path = docker_ubuntu
+	url = https://github.com/land007/docker_ubuntu.git
+[submodule "docker_node-canvas"]
+	path = docker_node-canvas
+	url = https://github.com/land007/docker_node-canvas.git
+[submodule "docker_java"]
+	path = docker_java
+	url = https://github.com/land007/docker_java.git
+[submodule "docker_ubuntu-unity-novnc"]
+	path = docker_ubuntu-unity-novnc
+	url = https://github.com/land007/docker_ubuntu-unity-novnc.git
+[submodule "docker_centos-build"]
+	path = docker_centos-build
+	url = https://github.com/land007/docker_centos-build.git
+[submodule "docker_ubuntu-build"]
+	path = docker_ubuntu-build
+	url = https://github.com/land007/docker_ubuntu-build.git
+[submodule "docker_node-express"]
+	path = docker_node-express
+	url = https://github.com/land007/docker_node-express.git
+[submodule "docker_python"]
+	path = docker_python
+	url = https://github.com/land007/docker_python.git
+[submodule "docker_python-shadowsocks"]
+	path = docker_python-shadowsocks
+	url = https://github.com/land007/docker_python-shadowsocks.git
+[submodule "docker_centos"]
+	path = docker_centos
+	url = https://github.com/land007/docker_centos.git
+[submodule "docker_rtsp-mjpeg"]
+	path = docker_rtsp-mjpeg
+	url = https://github.com/land007/docker_rtsp-mjpeg.git
