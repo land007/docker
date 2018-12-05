@@ -73,3 +73,57 @@
 [submodule "docker_face-api.js"]
 	path = docker_face-api.js
 	url = https://github.com/land007/docker_face-api.js.git
+[submodule "docker_ubuntu-codemeter"]
+	path = docker_ubuntu-codemeter
+	url = https://github.com/land007/docker_ubuntu-codemeter.git
+[submodule "docker_node-rtsp-stream"]
+	path = docker_node-rtsp-stream
+	url = https://github.com/land007/docker_node-rtsp-stream.git
+[submodule "docker_node-rtsp-mjpeg"]
+	path = docker_node-rtsp-mjpeg
+	url = https://github.com/land007/docker_node-rtsp-mjpeg.git
+[submodule "docker_ubuntu_java"]
+	path = docker_ubuntu_java
+	url = https://github.com/land007/docker_ubuntu_java.git
+[submodule "docker_debian_java"]
+	path = docker_debian_java
+	url = https://github.com/land007/docker_debian_java.git
+[submodule "docker_ubuntu-java-codemeter"]
+	path = docker_ubuntu-java-codemeter
+	url = https://github.com/land007/docker_ubuntu-java-codemeter.git
+[submodule "docker_ubuntu-java"]
+	path = docker_ubuntu-java
+	url = https://github.com/land007/docker_ubuntu-java.git
+[submodule "docker_ubuntu-build-codemeter"]
+	path = docker_ubuntu-build-codemeter
+	url = https://github.com/land007/docker_ubuntu-build-codemeter.git
+[submodule "docker_cpp-unity-novnc"]
+	path = docker_cpp-unity-novnc
+	url = https://github.com/land007/docker_cpp-unity-novnc.git
+[submodule "docker_golang-node"]
+	path = docker_golang-node
+	url = https://github.com/land007/docker_golang-node.git
+[submodule "docker_cpp-node"]
+	path = docker_cpp-node
+	url = https://github.com/land007/docker_cpp-node.git
+[submodule "docker_debian-build"]
+	path = docker_debian-build
+	url = https://github.com/land007/docker_debian-build.git
+[submodule "docker_ubuntu-node"]
+	path = docker_ubuntu-node
+	url = https://github.com/land007/docker_ubuntu-node.git
+[submodule "docker_node-ffmpeg"]
+	path = docker_node-ffmpeg
+	url = https://github.com/land007/docker_node-ffmpeg.git
+[submodule "docker_debain-codemeter"]
+	path = docker_debain-codemeter
+	url = https://github.com/land007/docker_debain-codemeter.git
+[submodule "docker_debian-build-codemeter"]
+	path = docker_debian-build-codemeter
+	url = https://github.com/land007/docker_debian-build-codemeter.git
+[submodule "docker_debian-codemeter"]
+	path = docker_debian-codemeter
+	url = https://github.com/land007/docker_debian-codemeter.git
+[submodule "docker_debian-java-codemeter"]
+	path = docker_debian-java-codemeter
+	url = https://github.com/land007/docker_debian-java-codemeter.git
