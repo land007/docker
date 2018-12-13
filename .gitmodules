@@ -127,3 +127,6 @@
 [submodule "docker_debian-java-codemeter"]
 	path = docker_debian-java-codemeter
 	url = https://github.com/land007/docker_debian-java-codemeter.git
+[submodule "docker_node-grpc"]
+	path = docker_node-grpc
+	url = https://github.com/land007/docker_node-grpc.git
